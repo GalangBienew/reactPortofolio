@@ -1,8 +1,8 @@
 {
   "name": "landingpage",
   "version": "0.1.0",
-  "homepage": "http://GalangBienew.github.io/react-js-portofolio",
   "private": true,
+  "homepage": "http://GalangBienew.github.io/react-js-portofolio",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.5",

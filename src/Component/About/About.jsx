@@ -6,7 +6,7 @@ import Button from "react-bootstrap/Button";
 import { BsTelephoneForwardFill } from "react-icons/bs";
 import Footer from "../Footer/Footer";
 // ini bukan halaman About,halaman tersebut saya berikan dengan nama HeaderAbout
-const About = () => {
+const Aboutus = () => {
   return (
     <>
       <Container fluid>
@@ -38,4 +38,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Aboutus;

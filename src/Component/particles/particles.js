@@ -23,6 +23,10 @@ const ParticlesBg = () => {
             value: "",
           },
         },
+        fullScreen: {
+          enable: true,
+          zIndex: 1,
+        },
         fpsLimit: 122,
         interactivity: {
           events: {
@@ -67,7 +71,7 @@ const ParticlesBg = () => {
               default: "bounce",
             },
             random: false,
-            speed: 6,
+            speed: 2,
             straight: false,
           },
           number: {
@@ -78,7 +82,7 @@ const ParticlesBg = () => {
             value: 80,
           },
           opacity: {
-            value: 0.5,
+            value: 0.7,
           },
           shape: {
             type: "circle",
