@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/GalangBienew/reactPortofolio/static/css/main.5bd1fe9f.css",
+    "main.js": "/GalangBienew/reactPortofolio/static/js/main.19425df4.js",
+    "static/css/689.3f846f33.chunk.css": "/GalangBienew/reactPortofolio/static/css/689.3f846f33.chunk.css",
+    "static/js/689.e3e15d58.chunk.js": "/GalangBienew/reactPortofolio/static/js/689.e3e15d58.chunk.js",
+    "static/css/739.2893e30a.chunk.css": "/GalangBienew/reactPortofolio/static/css/739.2893e30a.chunk.css",
+    "static/js/739.84ae706f.chunk.js": "/GalangBienew/reactPortofolio/static/js/739.84ae706f.chunk.js",
+    "static/css/499.ab66cc1b.chunk.css": "/GalangBienew/reactPortofolio/static/css/499.ab66cc1b.chunk.css",
+    "static/js/499.3f8346da.chunk.js": "/GalangBienew/reactPortofolio/static/js/499.3f8346da.chunk.js",
+    "static/css/599.1f7dee3c.chunk.css": "/GalangBienew/reactPortofolio/static/css/599.1f7dee3c.chunk.css",
+    "static/js/599.837394ae.chunk.js": "/GalangBienew/reactPortofolio/static/js/599.837394ae.chunk.js",
+    "static/js/32.fc6241d4.chunk.js": "/GalangBienew/reactPortofolio/static/js/32.fc6241d4.chunk.js",
+    "static/media/gue.jpeg": "/GalangBienew/reactPortofolio/static/media/gue.8b14a7d938559f9ac518.jpeg",
+    "index.html": "/GalangBienew/reactPortofolio/index.html",
+    "main.5bd1fe9f.css.map": "/GalangBienew/reactPortofolio/static/css/main.5bd1fe9f.css.map",
+    "main.19425df4.js.map": "/GalangBienew/reactPortofolio/static/js/main.19425df4.js.map",
+    "689.3f846f33.chunk.css.map": "/GalangBienew/reactPortofolio/static/css/689.3f846f33.chunk.css.map",
+    "689.e3e15d58.chunk.js.map": "/GalangBienew/reactPortofolio/static/js/689.e3e15d58.chunk.js.map",
+    "739.2893e30a.chunk.css.map": "/GalangBienew/reactPortofolio/static/css/739.2893e30a.chunk.css.map",
+    "739.84ae706f.chunk.js.map": "/GalangBienew/reactPortofolio/static/js/739.84ae706f.chunk.js.map",
+    "499.ab66cc1b.chunk.css.map": "/GalangBienew/reactPortofolio/static/css/499.ab66cc1b.chunk.css.map",
+    "499.3f8346da.chunk.js.map": "/GalangBienew/reactPortofolio/static/js/499.3f8346da.chunk.js.map",
+    "599.1f7dee3c.chunk.css.map": "/GalangBienew/reactPortofolio/static/css/599.1f7dee3c.chunk.css.map",
+    "599.837394ae.chunk.js.map": "/GalangBienew/reactPortofolio/static/js/599.837394ae.chunk.js.map",
+    "32.fc6241d4.chunk.js.map": "/GalangBienew/reactPortofolio/static/js/32.fc6241d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd1fe9f.css",
+    "static/js/main.19425df4.js"
+  ]
+}
