@@ -15,7 +15,6 @@ function App() {
     <div className="App">
       <Router>
         <NavbarG />
-        {/* <Aboutus /> */}
         <ParticlesBg />
         <Suspense fallback={<div>Loading...</div>}>
           <Routes>
